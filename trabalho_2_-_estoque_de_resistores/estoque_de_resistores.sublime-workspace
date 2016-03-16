@@ -1,0 +1,932 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alte",
+				"alterar_resistor"
+			],
+			[
+				"lista",
+				"lista1"
+			],
+			[
+				"T",
+				"TAMANHO"
+			],
+			[
+				"prim",
+				"primeiro_antigo"
+			],
+			[
+				"dado",
+				"dado_temp2"
+			],
+			[
+				"busca",
+				"busca_item"
+			],
+			[
+				"bus",
+				"busca_item"
+			],
+			[
+				"dad",
+				"dado_inicial"
+			],
+			[
+				"cria",
+				"criarpilha"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"primei",
+				"primeiro_dado"
+			],
+			[
+				"remov",
+				"remover_elemento"
+			],
+			[
+				"ele",
+				"elemento_anterior"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"elemen",
+				"elemento_buscado"
+			],
+			[
+				"novo",
+				"novo_elemento"
+			],
+			[
+				"cabe",
+				"cabecalho_lista"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"proxi",
+				"proximo"
+			],
+			[
+				"valor",
+				"valor_inicial"
+			],
+			[
+				"pro",
+				"proximo"
+			],
+			[
+				"proximo",
+				"proximo_elemento"
+			],
+			[
+				"tama",
+				"tamanho_inicial"
+			],
+			[
+				"motor",
+				"motorCurrentPin"
+			],
+			[
+				"mppt",
+				"mpptCurrentPin"
+			],
+			[
+				"pot",
+				"potPin"
+			],
+			[
+				"motorC",
+				"motorCurxTime"
+			],
+			[
+				"bat",
+				"batVolt"
+			],
+			[
+				"mot",
+				"motorTemp"
+			],
+			[
+				"ut",
+				"ut_old"
+			],
+			[
+				"motorCurr",
+				"motorCurrent_mean"
+			],
+			[
+				"moto",
+				"motorCurrent_old"
+			],
+			[
+				"in",
+				"x_integral"
+			],
+			[
+				"cu",
+				"mpptCurrent_old"
+			],
+			[
+				"current",
+				"mpptCurrent_old"
+			],
+			[
+				"mean",
+				"motorCurrent_mean"
+			],
+			[
+				"time",
+				"time_new"
+			],
+			[
+				"inte",
+				"motorCurrent_integral"
+			],
+			[
+				"po",
+				"potVoltageMeasure"
+			],
+			[
+				"interu",
+				"noInterrupts"
+			],
+			[
+				"no",
+				"noInterrupts"
+			],
+			[
+				"voltage",
+				"voltage2"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"resis",
+				"resistor_db_tmp"
+			],
+			[
+				"LI",
+				"LIST_DB_b"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"lowe",
+				"LowerLeft"
+			],
+			[
+				"Lowe",
+				"LowerLeft"
+			],
+			[
+				"Up",
+				"UpperLeft"
+			],
+			[
+				"Low",
+				"LowerRight"
+			],
+			[
+				"U",
+				"UpperLeft"
+			],
+			[
+				"Upp",
+				"UpperRight"
+			],
+			[
+				"Lo",
+				"LowerRight"
+			],
+			[
+				"resi",
+				"resistor_db_tmp"
+			],
+			[
+				"resistor",
+				"resistor_db_tmp"
+			],
+			[
+				"teste",
+				"teste_mostra_bin"
+			],
+			[
+				"total",
+				"totalSpace"
+			],
+			[
+				"MODE",
+				"MODE_APPEND"
+			],
+			[
+				"cur",
+				"current2"
+			],
+			[
+				"tempe",
+				"temperature2"
+			],
+			[
+				"msg",
+				"msg_mtx1"
+			],
+			[
+				"ms",
+				"msg_mtx2"
+			],
+			[
+				"row",
+				"row_mtx"
+			],
+			[
+				"m",
+				"msg_mtx"
+			],
+			[
+				"clk",
+				"clk_rot"
+			],
+			[
+				"cont",
+				"cont_rot"
+			],
+			[
+				"div",
+				"div_rot"
+			],
+			[
+				"stro",
+				"strobe_temp"
+			],
+			[
+				"strobe",
+				"strobe_temp"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"sr",
+				"src_vector"
+			],
+			[
+				"dst",
+				"dst_vector"
+			],
+			[
+				"w",
+				"w0"
+			],
+			[
+				"Cpu",
+				"cpu_timer0"
+			],
+			[
+				"cp",
+				"cpu_timer0_isr"
+			],
+			[
+				"Pie",
+				"InitPieCtrl"
+			],
+			[
+				"cl",
+				"clockPin"
+			],
+			[
+				"digital",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"digi",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"InitPie",
+				"InitPieVectTable"
+			],
+			[
+				"Init",
+				"InitPieCtrl"
+			],
+			[
+				"sp",
+				"STACK_TOP"
+			],
+			[
+				"loop",
+				"loopa_lista2_exercicio1_v2"
+			],
+			[
+				"y",
+				"y_maior_lista1_exercicio7"
+			],
+			[
+				"x",
+				"x_maior_lista1_exercicio7"
+			],
+			[
+				"eq",
+				"eq"
+			],
+			[
+				"h",
+				"head	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Unity3D Build System/Unity.sublime-build",
+					""
+				],
+				[
+					"Packages/Unity3D Build System/Unity.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Unity3D Build System/Unity.sublime-build",
+					""
+				],
+				[
+					"Packages/Unity3D Build System/Unity.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"assem",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/estoque_de_resistores/includes/lista-duplamente-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/estoque_de_resistores/arquivos.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/estoque_de_resistores/main.c",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/Makefile",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/mylib/testes_LDEH.c",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/prova_joaoantoniocardoso/questao1/main.c",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/prova_joaoantoniocardoso/questao3/main.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/mylib/Makefile",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/header.h",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/otimizar-strings.c",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/home/joaoantoniocardoso/workspace_prog2/leituradearquivos/resistores_maloc.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/mylib/lista-duplamente-encadiada-heterogenea.h",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/data.h",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/includes/lista-duplamente-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/includes/lista-duplamente-encadiada-heterogenea.h",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/arquivos.c",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/db.txt",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/almox-resistores.c",
+		"/home/joaoantoniocardoso/workspace_prog2/bancodedados/almox-resistores.h",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/exercicios/listas-filas-dinamicas.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/fila/fila.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/lista-duplamente-encadiada.c",
+		"/home/joaoantoniocardoso/workspace_prog2/argumentos.c",
+		"/home/joaoantoniocardoso/workspace_prog2/Data_structure_alignment.c",
+		"/home/joaoantoniocardoso/workspace_prog2/joaoantoniocardoso.c",
+		"/home/joaoantoniocardoso/workspace_prog2/mostrar_binario.c",
+		"/home/joaoantoniocardoso/workspace_prog2/erro1.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/pilha/pilha.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/exercicios/listas-filas-e1.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/exercicios/listas-filas-e2.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/mylib/lista-duplamente-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/workspace_prog2/estruturas/lista/lista-encadiada.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/testes_LDEH.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/lista-duplamente-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/lista-duplamente-encadiada-heterogenea.h",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/Makefile",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/stdarg.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/lista-duplamente-encadiada.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/lista-encadiada.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/compile.sh",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/testes_LDEH.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/lista-duplametne-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/mylib/lista-duplametne-encadiada-heterogenea.h",
+		"/home/joaoantoniocardoso/workspace_arm/MCP22105_Final/task.h",
+		"/home/joaoantoniocardoso/workspace_arm/MCP22105_Final/system.h",
+		"/home/joaoantoniocardoso/workspace_arm/MCP22105_Final/types.h",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/lista-duplamente-encadiada-heterogenea.c",
+		"/home/joaoantoniocardoso/Dropbox/docs/Game/Prototype4_a/Assets/Scripts/MouseMultipleCubeCreator2.cs",
+		"/home/joaoantoniocardoso/Dropbox/docs/Game/Prototype4_a/Assets/Scripts/MouseMultipleCubeCreator.cs",
+		"/home/joaoantoniocardoso/Downloads/PV_modules/PV_module.mdl",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/Clang Format/clang_format_custom.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/joaoantoniocardoso/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/joaoantoniocardoso/Desktop/Matlab.desktop",
+		"/home/joaoantoniocardoso/Downloads/MATLAB_R2012b_No_Crack_ISO/Crack/matlab2012b_std.dat",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/fila.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/lista-duplamente-encadiada-heterogenea",
+		"/home/joaoantoniocardoso/Softwares/Xfoil/orrs/bin/Makefile",
+		"/home/joaoantoniocardoso/Softwares/Xfoil/orrs/src/osmap.f",
+		"/home/joaoantoniocardoso/Softwares/Xfoil/orrs/osmap.f",
+		"/home/joaoantoniocardoso/Arduino/computadordebordo_2015_PK/computadordebordo_2015_PK.ino",
+		"/home/joaoantoniocardoso/Desktop/MARCIO ANTONIO AUGUSTO/teste_de_compilacao_do_firmware/teste_de_compilacao_do_firmware.ino",
+		"/tmp/TestBleWrapper.java",
+		"/tmp/TestActivity.java",
+		"/tmp/BleTestRunnable.java",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/revertVector.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/notas.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/alocacao-vetores-tamanho-variavel.c",
+		"/home/joaoantoniocardoso/workspace_prog2/maloc/untitled",
+		"/home/joaoantoniocardoso/Arduino/ObC-lls/ComputadorDeBordo_PK.ino",
+		"/home/joaoantoniocardoso/Arduino/ObC-lls/computadordebordo_2015_marcio.ino",
+		"/home/joaoantoniocardoso/Downloads/computadordebordo_2015_marcio.ino",
+		"/home/joaoantoniocardoso/Arduino/ObC-lls/main/main.ino",
+		"/home/joaoantoniocardoso/Downloads/ComputadorDebordo.ino",
+		"/home/joaoantoniocardoso/Arduino/computadordebordo_2015_marcio/computadordebordo_2015_marcio.ino",
+		"/home/joaoantoniocardoso/Arduino/computadordebordo_2015/computadordebordo_2015.ino",
+		"/home/joaoantoniocardoso/workspace_prog2/retangulo/retangulo.c",
+		"/home/joaoantoniocardoso/Arduino/ObC-lls/Sensores_arduino.ino",
+		"/home/joaoantoniocardoso/workspace_prog2/leituradearquivos/resistores.c",
+		"/home/joaoantoniocardoso/Arduino/ObC-lls/main.ino",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/trabalho2/main.c",
+		"/home/joaoantoniocardoso/workspace_prog2/leituradearquivos/db.txt",
+		"/home/joaoantoniocardoso/workspace_arm/MCP22105_Final/system.c",
+		"/home/joaoantoniocardoso/workspace_arm/MCP22105_Final/main.c",
+		"/home/joaoantoniocardoso/nomedoarquivo.csv",
+		"/home/joaoantoniocardoso/Desktop/data_log.csv",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/prova_joaoantoniocardoso/questao2/main.c",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/exercicio34/main.c",
+		"/home/joaoantoniocardoso/Projects/Aulas/C/exercicio29/main.c",
+		"/home/joaoantoniocardoso/AndroidstudioProjects/logger.java",
+		"/home/joaoantoniocardoso/workspace4/arduinotoandroidbluetooth/src/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/Downloads/ObC-hl-master/arduinotoandroidbluetooth/app/src/main/java/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/workspace3/bkp3/arduinotoandroidbluetooth/src/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/workspace3/Copy of arduinotoandroidbluetooth/src/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/AndroidstudioProjects/arduinotoandroidbluetooth/app/src/main/java/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/Dropbox/IFSC/PROJETOS/ComputadordeBordo/release/Eclipse/arduinotoandroidbluetooth/src/ifsc/lpee/barcosolar/bluetooth/fragment_communication.java",
+		"/home/joaoantoniocardoso/AndroidstudioProjects/ObC-hls/app/src/main/java/br/edu/ifsc/lpee/zenitesolar/obc_hls/Communication.java",
+		"/home/joaoantoniocardoso/Dropbox/IFSC/PROJETOS/Zênite Solar/ELETRÔNICA/Referências/Referencias HighPowerPCB/referencias",
+		"/home/joaoantoniocardoso/.config/awesome/rc.lua",
+		"/home/joaoantoniocardoso/Dropbox/IFSC/PROJETOS/Zênite Solar/ELETRÔNICA/2015/Snubbers/Undeland - Metodo Adriano Perez.nb",
+		"/home/joaoantoniocardoso/Downloads/VMware Workstation 10.0.1 build 1379776 for Linux/serial.txt",
+		"/home/joaoantoniocardoso/Downloads/VMware Workstation 10.0.1 build 1379776 for Linux/VMware-Workstation-Full-10.0.1-1379776.x86_64.bundle",
+		"/home/joaoantoniocardoso/rede_ifsc_config",
+		"/run/media/joaoantoniocardoso/ARCH_201507/arch/pkglist.x86_64.txt",
+		"/run/media/joaoantoniocardoso/0D85-9A01/bkup2/BOM.txt",
+		"/home/joaoantoniocardoso/.local/share/xorg/Xorg.0.log",
+		"/run/media/joaoantoniocardoso/0D85-9A01/conexao.txt",
+		"/var/log/journal/f4b98975ef03496dbb9fd225e9e65c7d/user-1000.journal",
+		"/var/log/journal/f4b98975ef03496dbb9fd225e9e65c7d/system.journal",
+		"/var/log/Xorg.1.log",
+		"/var/log/Xorg.0.log",
+		"/home/joaoantoniocardoso/Desktop/serial_debug.dat",
+		"/home/joaoantoniocardoso/workspace_dsp/teste2/Main_10.c",
+		"/home/joaoantoniocardoso/workspace_dsp/Lab9/main.c",
+		"/home/joaoantoniocardoso/Dropbox/IFSC/Documentos/2015-1/Eletrônica I/retificador.nb",
+		"/home/joaoantoniocardoso/workspace_dsp/Lab9/Lab6.c",
+		"/home/joaoantoniocardoso/workspace_dsp/teste2/Gpio.c",
+		"/home/joaoantoniocardoso/workspace_arm/teste_aula1/main.s",
+		"/home/joaoantoniocardoso/workspace_arm/teste_aula1/mcopy.s",
+		"/home/joaoantoniocardoso/workspace_arm/teste_aula1/fact.s",
+		"/home/joaoantoniocardoso/workspace_arm/teste_aula1/fibonacci.s",
+		"/home/joaoantoniocardoso/workspace_arm/teste_aula1/ledBlink.s",
+		"/home/joaoantoniocardoso/workspace_arm/c+assembly_/main.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lista-duplamente-encadiada-heterogenea",
+			"(*rtmp).",
+			"\\n\\t\\t\\t",
+			"resistor_db_tmp[index]",
+			"&resistor_tmp",
+			"criar_itemlista",
+			"250",
+			"10000",
+			"0.1",
+			"0.25",
+			"E12",
+			".valor",
+			"fila",
+			"lista",
+			"(lista1, &imprimir_item, 0)",
+			"imprimir_lista",
+			"percorre_lista(lista1, &imprimir_lista )",
+			"cabecalho_itemlista",
+			"lista",
+			"busca_elemento",
+			"L",
+			".",
+			"actualTime2",
+			"oldTime2",
+			"actualTime1",
+			"mpptldTime",
+			"oldTime1",
+			"initialTime2",
+			"mpptInitialTime1",
+			"initialTime1",
+			"current2Pin",
+			"current1Pin",
+			"temperature1",
+			"current2xTime",
+			"current1xTime",
+			"potVoltage",
+			"voltage1",
+			"temperature2",
+			"sendDataCallBack",
+			"protocol",
+			"mean",
+			"sendD",
+			"voltage2Thread",
+			"voltage1Thread",
+			"voltage2 ",
+			",",
+			"cont ",
+			"cont",
+			"time",
+			"__new",
+			"vicious",
+			"debian",
+			",",
+			", ",
+			" , ",
+			",",
+			" ",
+			"   ",
+			"FILENAME",
+			"fair",
+			"BC338",
+			"fswidget",
+			"fs",
+			"transparency",
+			"menu",
+			"unagi",
+			"browser2",
+			"tags",
+			"file_ex",
+			"mail",
+			"musicplr",
+			"border",
+			"layout",
+			"menubar",
+			"batwidget",
+			"01-02 08:59:59.",
+			"15085-15106/ ",
+			"ifsc.lpee.barcosolar.bluetooth D/",
+			"ACK 0x07!",
+			"D",
+			"A",
+			"B",
+			"E",
+			"D",
+			"	",
+			"A",
+			"(1/S*C)",
+			",	// ",
+			"				IntDefaultHandler",
+			"deadloop, 	",
+			"alsa",
+			"beets",
+			"]\n",
+			"main",
+			"Altium",
+			"trans",
+			"transparen",
+			"cpu",
+			"memwidget",
+			"membar",
+			"wall"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"includes/lista-duplamente-encadiada-heterogenea",
+			"",
+			"\\n",
+			"(*mdado)",
+			"(*resistor_db_tmp)",
+			"(*resistor_tmp)",
+			"criar_lista",
+			"0.250",
+			"0.1",
+			"10000",
+			"250",
+			"12",
+			".dado",
+			"lista",
+			"fila",
+			"imprimir_item",
+			"percorre_item",
+			"percorre_lista(lista1, &imprimir_lista, 0)",
+			"lista",
+			"itemlista",
+			"busca_elemento_lista",
+			"l",
+			",",
+			"motorCurPin",
+			"mpptCurPin",
+			"batTemp",
+			"motorCurxTime",
+			"mpptCurxTime",
+			"potVolt",
+			"batVolt",
+			"motorTemp",
+			"dutyCycleThread",
+			"batteryVoltageThread",
+			" ",
+			"count ",
+			"count",
+			"--vicious	",
+			"	",
+			", ",
+			",",
+			"",
+			", ",
+			",",
+			"",
+			"  ",
+			" ",
+			"(1/(S*C))",
+			"((R/D)/(R+D))",
+			"(A + R)",
+			"((B*D)/(B+D))",
+			"",
+			"(R*(1/(S*C)))/(R+(1/(S*C))",
+			"(R*(1/(S*C)))/(R+(1/(S*C)))",
+			"(1/(S*C))",
+			"	// ",
+			"		.word	IntDefaultHandler",
+			"IntDefaultHandler,	",
+			"lista1_exercicio"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.IG_led_matrix_random_leds":
+	{
+		"height": 118.0
+	},
+	"output.ObC-lls":
+	{
+		"height": 248.0
+	},
+	"output.computadordebordo_2015":
+	{
+		"height": 28.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.firstThreads":
+	{
+		"height": 37.0
+	},
+	"output.main":
+	{
+		"height": 25.0
+	},
+	"output.stino_log":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "estoque_de_resistores.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
