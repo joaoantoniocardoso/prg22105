@@ -87,6 +87,13 @@ void sortList(lheader_t* mlH);
  */
 list_t *binSearchList(lheader_t *mlH, float value);
 
+/**
+ * Search for a value in the list
+ * @method searchList
+ * @param  mlH                 Header of the list.
+ * @param  value               Value to be looked.
+ * @return                     Ptr to the found, otherwise NULL.
+ */
 list_t *searchList(lheader_t *mlH, float value);
 
 /**
@@ -96,7 +103,7 @@ list_t *searchList(lheader_t *mlH, float value);
  * @param  value               Value to be looked.
  * @return                     Ptr to father of the found, otherwise NULL.
  */
-list_t *searchChild(lheader_t *mlH, float value);
+void *searchChild(lheader_t *mlH, float value);
 
 /**
  * Remove an item from list.
